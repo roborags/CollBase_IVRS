@@ -1,0 +1,36 @@
+c:\users\rags\documents\visual studio 2010\Projects\ivrs\ivrs\bin\Debug\ivrs.exe.config
+c:\users\rags\documents\visual studio 2010\Projects\ivrs\ivrs\bin\Debug\ivrs.exe
+c:\users\rags\documents\visual studio 2010\Projects\ivrs\ivrs\bin\Debug\ivrs.pdb
+c:\users\rags\documents\visual studio 2010\Projects\ivrs\ivrs\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\rags\documents\visual studio 2010\Projects\ivrs\ivrs\obj\x86\Debug\ivrs.Form1.resources
+c:\users\rags\documents\visual studio 2010\Projects\ivrs\ivrs\obj\x86\Debug\ivrs.Properties.Resources.resources
+c:\users\rags\documents\visual studio 2010\Projects\ivrs\ivrs\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\rags\documents\visual studio 2010\Projects\ivrs\ivrs\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\rags\documents\visual studio 2010\Projects\ivrs\ivrs\obj\x86\Debug\ivrs.exe
+c:\users\rags\documents\visual studio 2010\Projects\ivrs\ivrs\obj\x86\Debug\ivrs.pdb
+C:\Users\rags\Documents\Visual Studio 2010\Projects\ivrs\ivrs\obj\x86\Debug\Interop.SpeechLib.dll
+C:\Users\rags\Documents\Visual Studio 2010\Projects\ivrs\ivrs\obj\x86\Debug\ivrs.csproj.ResolveComReference.cache
+D:\PERSONAL\Project\ivrs rags\ivrs\bin\Debug\ivrs.exe.config
+D:\PERSONAL\Project\ivrs rags\ivrs\obj\x86\Debug\Interop.SpeechLib.dll
+D:\PERSONAL\Project\ivrs rags\ivrs\obj\x86\Debug\ivrs.csproj.ResolveComReference.cache
+D:\PERSONAL\Project\ivrs rags\ivrs\obj\x86\Debug\ivrs.exe
+D:\PERSONAL\Project\ivrs rags\ivrs\obj\x86\Debug\ivrs.pdb
+D:\PERSONAL\Project\ivrs rags\ivrs\bin\Debug\ivrs.exe
+D:\PERSONAL\Project\ivrs rags\ivrs\bin\Debug\ivrs.pdb
+D:\PERSONAL\Project\ivrs rags\ivrs\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\PERSONAL\Project\ivrs rags\ivrs\obj\x86\Debug\ivrs.Form1.resources
+D:\PERSONAL\Project\ivrs rags\ivrs\obj\x86\Debug\ivrs.Properties.Resources.resources
+D:\PERSONAL\Project\ivrs rags\ivrs\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\PERSONAL\Project\ivrs rags\ivrs\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\PERSONAL\Project\ivrs rags edit\ivrs\bin\Debug\ivrs.exe.config
+D:\PERSONAL\Project\ivrs rags edit\ivrs\obj\x86\Debug\Interop.SpeechLib.dll
+D:\PERSONAL\Project\ivrs rags edit\ivrs\obj\x86\Debug\ivrs.csproj.ResolveComReference.cache
+D:\PERSONAL\Project\ivrs rags edit\ivrs\obj\x86\Debug\ivrs.exe
+D:\PERSONAL\Project\ivrs rags edit\ivrs\obj\x86\Debug\ivrs.pdb
+D:\PERSONAL\Project\ivrs rags edit\ivrs\bin\Debug\ivrs.exe
+D:\PERSONAL\Project\ivrs rags edit\ivrs\bin\Debug\ivrs.pdb
+D:\PERSONAL\Project\ivrs rags edit\ivrs\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\PERSONAL\Project\ivrs rags edit\ivrs\obj\x86\Debug\ivrs.Form1.resources
+D:\PERSONAL\Project\ivrs rags edit\ivrs\obj\x86\Debug\ivrs.Properties.Resources.resources
+D:\PERSONAL\Project\ivrs rags edit\ivrs\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\PERSONAL\Project\ivrs rags edit\ivrs\obj\x86\Debug\GenerateResource.write.1.tlog
